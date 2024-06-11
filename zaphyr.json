@@ -1,0 +1,12 @@
+{
+  "config": "config/test2-package.yaml",
+  "packages": {
+    "all": [
+      "Merloxx\\Test2Package\\AllPackage"
+    ]
+  },
+  "env": {
+    "TEST2_FOO": "foo",
+    "TEST2_BAR": "bar"
+  }
+}
