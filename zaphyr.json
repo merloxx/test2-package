@@ -3,6 +3,9 @@
   "packages": {
     "all": [
       "Merloxx\\Test2Package\\AllPackage"
+    ],
+    "development": [
+      "Merloxx\\Test2Package\\DevelopmentPackage"
     ]
   },
   "env": {
